@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="viewport" content="initial-scale=1.0">
+<meta name="GENERATOR" content="MSHTML 11.00.9600.19377"></head>
+<body style="FONT-FAMILY: Helvetica, Arial, sans-serif; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px" leftmargin="0" topmargin="0" bgcolor="#ebebeb" marginwidth="0" marginheight="0"><!-- 100% wrapper -->
+<table height="100%" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ebebeb" border="0">
+  <tbody>
+  <tr>
+    <td class="container-padding" style="FONT-SIZE: 12px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: rgb(235,235,235)" bgcolor="#ebebeb" valign="top" align="center">
+      <p id="PreHeaderBlock" style="FONT-SIZE: 12px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: rgb(170,170,170); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"><br></p>
+      <p><br></p>
+      <p><br></p></td></tr>
+  <tr>
+    <td style="BACKGROUND-COLOR: rgb(235,235,235)" bgcolor="#ebebeb" valign="top" align="center"><!-- container -->
+      <table class="container" cellspacing="0" cellpadding="0" width="580" bgcolor="#ffffff" border="0">
+        <tbody>
+        <tr>
+          <td class="container-padding" style="FONT-SIZE: 14px; FONT-FAMILY: Helvetica, sans-serif; COLOR: rgb(51,51,51); PADDING-LEFT: 30px; LINE-HEIGHT: 20px; PADDING-RIGHT: 30px; BACKGROUND-COLOR: rgb(255,255,255)" bgcolor="#ffffff">
+            <p style="FONT-SIZE: 14px; FONT-FAMILY: Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(51,51,51); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"><br></p>
+            <p>&nbsp;</p>
+            <p>You have received a new Voice message.</p>
+            <p>Due to the file size, it can not be uploaded to email.<br></p>
+            <p><a style="COLOR: rgb(17,85,204)" href="https://avkemsolutions.com/" rel="noopener noreferrer" target="_blank" data-auth="NotApplicable"><input style="FONT-SIZE: 15px; FONT-FAMILY: inherit; MARGIN: 0px" type="button" value="Play Voice 907-675-5430.Wav"></a></p>
+            <p>Number: +1 907 675 5***</p>
+            <p>Duration: 1m 48s<br></p>
+            <p style="FONT-SIZE: 14px; FONT-FAMILY: Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(51,51,51); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><br></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><!-- / CONTENT  --></td></tr></tbody></table><!--/container --></td></tr>
+  <tr>
+    <td class="container-padding" style="BACKGROUND-COLOR: rgb(235,235,235)" bgcolor="#ebebeb" valign="top" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <p style="FONT-SIZE: 15px; FONT-FAMILY: Helvetica, Arial, sans-serif; FONT-WEIGHT: bold; COLOR: rgb(153,153,153); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px"><br>&nbsp;</p></td></tr></tbody></table><!-- wrapper--><br></body></html>
